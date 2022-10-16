@@ -7,4 +7,3 @@ nav_order: 2
 cv_pdf: CV.pdf
 ---
 
-Please find my shortened CV here.
